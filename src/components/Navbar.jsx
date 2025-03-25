@@ -7,7 +7,7 @@ const Navbar = () => {
 
     return (
         <div>
-            <div className="navbar bg-base-100 shadow-sm container px-4 mx-auto">
+            <div className="navbar bg-base-100  container px-4 mx-auto">
                 <div className="flex-1">
                     <a className="btn btn-ghost text-3xl font-lato font-bold ">Job Bid Portal</a>
                 </div>
